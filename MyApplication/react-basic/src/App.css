@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai&family=Poppins:ital,wght@1,100&display=swap');
+
+*{
+  font-family: 'IBM Plex Sans Thai', sans-serif;
+  box-sizing: border-box;
+}
+
+body{
+  background: wheat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.horizontal-menu{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: rgb(65, 56, 56);
+  text-align: center;
+}
+
+.horizontal-menu li{
+  display: inline-block;
+}
+
+.horizontal-menu a{
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  display: block;
+}

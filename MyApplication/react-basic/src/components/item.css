@@ -1,0 +1,7 @@
+.expense{
+    border-left: 10px solid red;
+}
+
+.income {
+    border-left: 10px solid green;
+}

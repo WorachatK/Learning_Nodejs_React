@@ -1,0 +1,3 @@
+Hello everyone 
+Hello I'am learning about basic Node.js  
+thia file craet when Tue Jun 07 2022 18:52:14 GMT+0700 (Indochina Time)
